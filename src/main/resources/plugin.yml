@@ -1,0 +1,4 @@
+name: SaturationFix
+version: 1.0
+main: uk.co.ElllzUHC.SaturationFix.SaturationFix
+depend: [ScenarioManager]
